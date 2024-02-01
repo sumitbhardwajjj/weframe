@@ -1,0 +1,31 @@
+.headerContainer {
+  padding: 30px;
+}
+
+.h3 {
+  font-family: sans-serif;
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.p{
+  font-size: 17px;
+  font-weight: 400;
+  color: #a0a3bd;
+}
+.headerCards {
+  display: flex;
+  gap: 20px;
+  padding-top: 30px;
+}
+
+.header {
+  padding: 20px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  width: 250px;
+  height: 100px;
+  border-radius: 20px;
+  background-color: white;
+}

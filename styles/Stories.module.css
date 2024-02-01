@@ -1,0 +1,53 @@
+.Stories {
+  padding: 30px;
+}
+
+.h3T {
+  font-size: 24px;
+  font-weight: 600;
+  padding-bottom: 20px;
+}
+
+.StoriesContainer {
+  overflow-x: hidden;
+  white-space: nowrap;
+  padding: 10px;
+  max-width: 1100px;
+}
+
+.StoriesContain {
+  width: 340px;
+  height: 500px;
+  border-radius: 10px;
+}
+.itemsStories {
+  display: inline-block;
+  margin-right: 20px;
+  position: relative;
+}
+
+.itemStory {
+  top: 15px;
+  right: 70px;
+  position: absolute;
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: #9058ff;
+  background-color: whitesmoke;
+}
+
+.itemstory {
+  top: 15px;
+  right: 20px;
+  position: absolute;
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: #9058ff;
+  background-color: whitesmoke;
+}
